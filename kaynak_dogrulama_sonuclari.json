@@ -1,0 +1,414 @@
+[
+  {
+    "id": "A1",
+    "tur": "Akademik Makale",
+    "baslik": "Uğuz, S. (2016) - Mersin Limanında Ticaret (1870–1912)",
+    "url": "https://dergipark.org.tr/tr/pub/mkusbed/article/209024",
+    "onem": "Yüksek",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 199,
+    "icerik_eslesme": [
+      "Mersin",
+      "Liman",
+      "Ticaret",
+      "Uğuz"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "A6",
+    "tur": "Akademik Makale",
+    "baslik": "Amerikan İç Savaşı ve Çukurova Pamuğu Makalesi",
+    "url": "https://dergipark.org.tr/tr/pub/std/article/1495000",
+    "onem": "Yüksek",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 191,
+    "icerik_eslesme": [
+      "Pamuk",
+      "Çukurova",
+      "Mersin",
+      "İç Savaş"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "A7",
+    "tur": "Ansiklopedi",
+    "baslik": "TDV İslâm Ansiklopedisi - Mersin Maddesi (Demiryolu 1886)",
+    "url": "https://islamansiklopedisi.org.tr/mersin",
+    "onem": "Yüksek",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 509,
+    "icerik_eslesme": [
+      "Mersin",
+      "demiryolu",
+      "iskele",
+      "liman"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "R1",
+    "tur": "Resmi Plan",
+    "baslik": "T.C. SBB On İkinci Kalkınma Planı (2024-2028)",
+    "url": "https://www.sbb.gov.tr/wp-content/uploads/2023/12/On-Ikinci-Kalkinma-Plani_2024-2028_11122023.pdf",
+    "onem": "Kritik",
+    "durum": "ERİŞİLDİ (İÇERİK KISMİ)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 383,
+    "icerik_eslesme": [],
+    "eksik_kelimeler": [
+      "Kalkınma Planı",
+      "Doğu Akdeniz",
+      "Liman"
+    ],
+    "hata_mesaji": null,
+    "guven_skoru": 65
+  },
+  {
+    "id": "R2",
+    "tur": "Resmi Kurum",
+    "baslik": "Çukurova Kalkınma Ajansı - Bölge Planları",
+    "url": "https://www.cka.org.tr/bolge-planlari",
+    "onem": "Yüksek",
+    "durum": "HTTP HATASI 404",
+    "http_kod": 404,
+    "yanit_suresi_ms": 9919,
+    "icerik_eslesme": [],
+    "eksik_kelimeler": [],
+    "hata_mesaji": "HTTP Error 404: Not Found",
+    "guven_skoru": 20
+  },
+  {
+    "id": "R3",
+    "tur": "Resmi Kurum",
+    "baslik": "Karayolları Genel Müdürlüğü (KGM)",
+    "url": "https://www.kgm.gov.tr",
+    "onem": "Orta",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 710,
+    "icerik_eslesme": [
+      "Karayolları",
+      "Otoyol"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "R7",
+    "tur": "Resmi Haber",
+    "baslik": "T.C. Mersin Valiliği - Kapılar Projesi Açılışı",
+    "url": "https://mersin.gov.tr/vali-ali-hamza-pehlivan-mersin-limani-kapilar-projesi-acilis-torenine-katildi",
+    "onem": "Yüksek",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 497,
+    "icerik_eslesme": [
+      "Kapılar Projesi",
+      "Mersin Limanı",
+      "Pehlivan"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "R9",
+    "tur": "Resmi Belge",
+    "baslik": "Mersin Büyükşehir Belediyesi - Meclis Gündemi (20 Haziran 2025)",
+    "url": "https://www.mersin.bel.tr/dokumanlar/gundem-20-haziran-2025-841242011",
+    "onem": "Orta",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 954,
+    "icerik_eslesme": [
+      "Gündem",
+      "Meclis",
+      "Mersin"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "R10",
+    "tur": "Resmi Haber",
+    "baslik": "Mersin BB - Başkan Seçer Ana Konteyner Limanı Açıklaması",
+    "url": "https://www.mersin.bel.tr/haber/baskan-secerden-ana-konteyner-limani-aciklamasi-1721393928",
+    "onem": "Yüksek",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 879,
+    "icerik_eslesme": [
+      "Ana Konteyner Limanı",
+      "Seçer",
+      "Mersin"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "R11",
+    "tur": "Resmi Doküman",
+    "baslik": "ÖİB - Taşucu Limanı Kısa Tanıtım Dokümanı (PDF)",
+    "url": "https://ms.hmb.gov.tr/uploads/sites/6/2019/03/20180407-Tasucu-Limani-Kisa-tanitim-Dokumani.pdf",
+    "onem": "Yüksek",
+    "durum": "ERİŞİLDİ (İÇERİK KISMİ)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 1038,
+    "icerik_eslesme": [],
+    "eksik_kelimeler": [
+      "Taşucu",
+      "Liman",
+      "Özelleştirme"
+    ],
+    "hata_mesaji": null,
+    "guven_skoru": 65
+  },
+  {
+    "id": "M5",
+    "tur": "Mevzuat",
+    "baslik": "Mevzuat Takip - Yeni Taşkent Yük Merkezi TCDD Kamulaştırma Kararı",
+    "url": "https://mevzuattakip.com.tr/mevzuat/yeni-taskent-yuk-merkezi-projesi-kapsaminda-mersin-ili-sinirlari-icerisinde-yer-alan-bazi-tasinmazlar-ile-uzerlerindeki-muhdesatin-turkiye-cumhuriyeti-devlet-demiryollari-isletmesi",
+    "onem": "Yüksek",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 623,
+    "icerik_eslesme": [
+      "Taşkent",
+      "Kamulaştırma",
+      "TCDD",
+      "Mersin"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "K1",
+    "tur": "Kurumsal Portal",
+    "baslik": "MIP Resmi Destek - Yeni Kapı Projesi ve Kantar Değişikliği",
+    "url": "https://mipdestek.zendesk.com/hc/tr/articles/10563126703644-Yeni-Kap%C4%B1-Projesi-ve-Kantar-Yerlerinin-De%C4%9Fi%C5%9Fikli%C4%9Fi",
+    "onem": "Yüksek",
+    "durum": "KORUMALI ERİŞİM (BOT FİLTRESİ)",
+    "http_kod": 403,
+    "yanit_suresi_ms": 153,
+    "icerik_eslesme": [],
+    "eksik_kelimeler": [],
+    "hata_mesaji": "HTTP 403: Sunucu robot taramasını kısıtlıyor, tarayıcıda geçerli.",
+    "guven_skoru": 70
+  },
+  {
+    "id": "K2",
+    "tur": "Kurumsal Bülten",
+    "baslik": "PSA International - EMH2 Expansion Project Launch",
+    "url": "https://www.globalpsa.com/mip-marks-two-milestones-with-launch-of-emh2-expansion-project-and-port-operator-of-the-year-award/",
+    "onem": "Kritik",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 445,
+    "icerik_eslesme": [
+      "EMH2",
+      "Mersin",
+      "Expansion",
+      "PSA"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "K3",
+    "tur": "Kurumsal Bülten",
+    "baslik": "PSA Euro Med - EMH2 Phase 1 Completion",
+    "url": "https://psa-euro-med-and-psa-americas.prezly.com/mersin-international-port-completes-first-phase-of-east-med-hub-2-terminal",
+    "onem": "Kritik",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 438,
+    "icerik_eslesme": [
+      "East Med Hub 2",
+      "Mersin",
+      "First Phase"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "K4",
+    "tur": "Kurumsal Bülten",
+    "baslik": "PSA International - Mega Vessel MSC DITTE Welcomed",
+    "url": "https://www.globalpsa.com/mersin-international-port-welcomes-first-400-meter-mega-vessel-at-newly-completed-emh2-terminal/",
+    "onem": "Kritik",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 360,
+    "icerik_eslesme": [
+      "MSC DITTE",
+      "EMH2",
+      "400-Meter",
+      "Mersin"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "K5",
+    "tur": "Kurumsal Firma",
+    "baslik": "Akfen Holding - Liman İşletmeciliği Portalı",
+    "url": "https://www.akfen.com.tr/yatirimlar/liman-isletmeciligi/",
+    "onem": "Yüksek",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 343,
+    "icerik_eslesme": [
+      "Mersin",
+      "Liman",
+      "MIP",
+      "Akfen"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "K6",
+    "tur": "Kurumsal Firma",
+    "baslik": "MESBAŞ - Mersin Serbest Bölgesi Tarihçesi",
+    "url": "https://www.mesbas.com.tr/serbest_bolge/mersin-serbest-bolgesi-7.html",
+    "onem": "Yüksek",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 661,
+    "icerik_eslesme": [
+      "Serbest Bölge",
+      "MESBAŞ",
+      "1985",
+      "3218"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "K7",
+    "tur": "Kurumsal Firma",
+    "baslik": "ATAŞ - Anadolu Tasfiyehanesi A.Ş.",
+    "url": "https://www.atasterminal.com/",
+    "onem": "Yüksek",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 413,
+    "icerik_eslesme": [
+      "ATAŞ",
+      "Terminal",
+      "Depolama",
+      "Rafineri"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "K8",
+    "tur": "Kurumsal Firma",
+    "baslik": "Ceyport Taşucu Limanı",
+    "url": "https://ceyporttasucu.com.tr",
+    "onem": "Orta",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 4088,
+    "icerik_eslesme": [
+      "Taşucu",
+      "Ceyport",
+      "Liman"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "K9",
+    "tur": "Kurumsal Firma",
+    "baslik": "MTOSB - Mersin Tarsus OSB Tarihçe",
+    "url": "https://www.mtosb.org.tr/hakkimizda/tarihce",
+    "onem": "Yüksek",
+    "durum": "BAĞLANTI HATASI",
+    "http_kod": null,
+    "yanit_suresi_ms": null,
+    "icerik_eslesme": [],
+    "eksik_kelimeler": [],
+    "hata_mesaji": "[Errno 11002] getaddrinfo failed",
+    "guven_skoru": 10
+  },
+  {
+    "id": "H1",
+    "tur": "Haber Ajansı",
+    "baslik": "Anadolu Ajansı - İskenderun Limanı Konteyner Yangını",
+    "url": "https://www.aa.com.tr/tr/gundem/iskenderun-limaninda-depremde-devrilen-konteynerlerde-yangin-cikti/2808588",
+    "onem": "Yüksek",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 1083,
+    "icerik_eslesme": [
+      "İskenderun",
+      "Liman",
+      "deprem",
+      "yangın"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "H2",
+    "tur": "Haber Ajansı",
+    "baslik": "Anadolu Ajansı - İskenderun Limanı Rıhtım Trafiği",
+    "url": "https://www.aa.com.tr/tr/asrin-felaketi/depremde-zarar-goren-iskenderun-limaninda-bir-rihtim-daha-gemi-trafigine-acildi/3044440",
+    "onem": "Yüksek",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 821,
+    "icerik_eslesme": [
+      "İskenderun",
+      "rıhtım",
+      "gemi"
+    ],
+    "eksik_kelimeler": [],
+    "hata_mesaji": null,
+    "guven_skoru": 100
+  },
+  {
+    "id": "H3",
+    "tur": "Haber Ajansı",
+    "baslik": "Anadolu Ajansı - Akkuyu Doğu Kargo Terminali 100. Gemi",
+    "url": "https://www.aa.com.tr/tr/ekonomi/akkuyu-ngsnin-dogu-kargo-terminaline-100uncu-kargo-gemisi-ulasti-/3484451",
+    "onem": "Yüksek",
+    "durum": "DOĞRULANDI (GERÇEK)",
+    "http_kod": 200,
+    "yanit_suresi_ms": 710,
+    "icerik_eslesme": [
+      "Akkuyu",
+      "terminal"
+    ],
+    "eksik_kelimeler": [
+      "Doğu Kargo"
+    ],
+    "hata_mesaji": null,
+    "guven_skoru": 85
+  }
+]
